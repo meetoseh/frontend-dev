@@ -24,4 +24,4 @@ allow requests through.
 This contains the contents of the domain, which is just a basic html file to
 satisfy google that we have setup https correctly.
 
-This is hosted on cloudflare pages
+This is hosted on aws amplify using drag + drop hosting.
