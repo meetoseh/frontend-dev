@@ -18,7 +18,7 @@ message:
 ```
 
 To fix this, we need to actually register the domain, prove to Google we own
-teh domain, _actually put something on the domain_, and finally it should
+the domain, _actually put something on the domain_, and finally it should
 allow requests through.
 
 This contains the contents of the domain, which is just a basic html file to
